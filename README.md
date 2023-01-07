@@ -24,7 +24,7 @@ The user can move the ball to the left with the a key or <---  and to the right 
 To add strength, you must press the space key,as long as you press it, the ball will have more speed
 
 <p float="center">
-   <img src="/imgs/exemple.PNG" width="300" />
-   <img src="/imgs/exemple2.PNG" width="300" />
-    <img src="/imgs/exemple3.PNG" width="300" />
+   <img src="/imgs/exemple.PNG" width="250" />
+   <img src="/imgs/exemple2.PNG" width="250" />
+    <img src="/imgs/exemple3.PNG" width="250" />
 </p>
