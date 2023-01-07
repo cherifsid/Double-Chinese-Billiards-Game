@@ -26,4 +26,5 @@ To add strength, you must press the space key,as long as you press it, the ball 
 <p float="center">
    <img src="/imgs/exemple.PNG" width="300" />
    <img src="/imgs/exemple2.PNG" width="300" />
+    <img src="/imgs/exemple3.PNG" width="300" />
 </p>
